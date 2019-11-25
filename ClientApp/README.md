@@ -186,12 +186,6 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- [Live Preview](https://demos.creative-tim.com/paper-kit-2-angular/)
-- Download Page: https://www.creative-tim.com/product/paper-kit-2-angular
-- Documentation is [here](https://demos.creative-tim.com/paper-kit-2-angular/documentation/tutorial)
-- License Agreement: https://www.creative-tim.com/license
-- Support: https://www.creative-tim.com/contact-us
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/paper-kit-2-angular/issues)
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Paper Kit 2 Angular. Here are some advices for our users that want to report an issue:
@@ -206,31 +200,8 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2018 Creative Tim (https://www.creative-tim.com)
-- Creative Tim [license](https://www.creative-tim.com/license)
-
 ## Useful Links
 
-- [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
 
 ##### Social Media
 
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
-
-[CHANGELOG]: ./CHANGELOG.md
-[LICENSE]: ./LICENSE.md
-[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
