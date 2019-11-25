@@ -1,0 +1,18 @@
+.loaderr{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1031;
+}
+
+div#courceImg img:hover{
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 2px;
+    -webkit-transform: translateY(-10px);
+    transition: transform 300ms cubic-bezier(0.34, 2, 0.6, 1), box-shadow 200ms ease;
+}
+
+div#courceImg img{
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px 2px;
+}

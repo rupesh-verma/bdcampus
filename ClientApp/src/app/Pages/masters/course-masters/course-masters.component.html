@@ -1,0 +1,35 @@
+<div *ngIf="progressValue < 100" class="loaderr" >
+    <ngb-progressbar  type="info" [value]="progressValue " [striped]="true" height=".3rem" [animated]="true"></ngb-progressbar>
+</div>
+<div style="height: 20vh;">
+
+</div>
+<div class="container">
+    <div class="card">
+        <div class="card-header  bg-info">
+            <h5 style="color: #fff;">Course details</h5>
+        </div>
+        <div class="card-body text-center">
+          <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Course</th>
+                    <th>Course Code</th>
+                    <th>Fees</th>
+                    <th>action</th>
+                    <th>Duration(days)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let data of Coursedata">
+                    <td>{{data.CourseName}}</td>
+                    <td>{{data.CourseCode}}</td>
+                    <td>{{data.CourseFees}} </td>
+                    <td>{{data.Duration}}</td>
+                    <td><i class="fa fa-trash"></i></td>
+                </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+</div>
